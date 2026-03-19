@@ -14,6 +14,11 @@
       <input type="text" id="taskInput" placeholder="Digite uma tarefa...">
       <button onclick="addTask()">Adicionar</button>
     </div>
+    <div class="filters">
+  <button onclick="filterTasks('all')">Todas</button>
+  <button onclick="filterTasks('done')">Concluídas</button>
+  <button onclick="filterTasks('pending')">Pendentes</button>
+</div>
 
     <ul id="taskList"></ul>
   </div>

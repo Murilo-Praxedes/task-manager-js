@@ -12,7 +12,9 @@ Aplicação web desenvolvida para gerenciamento de tarefas do dia a dia, permiti
 
 ## 📸 Preview
 
-![Preview do projeto](preview.png)
+## 📸 Preview
+
+![Preview do projeto](files/preview.png)
 
 ---
 
